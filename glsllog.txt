@@ -1,0 +1,4 @@
+
+ERROR: 0:23: '' : boolean expression expected 
+
+
